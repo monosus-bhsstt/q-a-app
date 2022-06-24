@@ -1,6 +1,6 @@
 {
   "imports": {
-    "solid-js": "https://unpkg.com/solid-js@1.4.3/dist/server.js",
-    "solid-js/web": "https://unpkg.com/solid-js@1.4.3/web/dist/server.js"
+    "solid-js": "https://unpkg.com/solid-js@1.4.4/dist/server.js",
+    "solid-js/web": "https://unpkg.com/solid-js@1.4.4/web/dist/server.js"
   }
 }
