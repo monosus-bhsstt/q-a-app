@@ -3,6 +3,6 @@
   "version": "0.1.0",
   "description": "",
   "dependencies": {
-    "solid-js": "^1.4.3"
+    "solid-js": "^1.4.4"
   }
 }
